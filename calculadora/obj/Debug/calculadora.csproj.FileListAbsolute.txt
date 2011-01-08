@@ -6,3 +6,12 @@ C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calc
 C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
 C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\obj\Debug\calculadora.exe
 C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Tordek\Documents\Visual Studio 2010\Projects\Primeiro-Projeto\Primeiro-projeto\calculadora\obj\Debug\calculadora.exe
+C:\Users\Tordek\Documents\Visual Studio 2010\Projects\Primeiro-Projeto\Primeiro-projeto\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Tordek\Documents\Visual Studio 2010\Projects\Primeiro-Projeto\Primeiro-projeto\calculadora\bin\Debug\calculadora.exe
+C:\Users\Tordek\Documents\Visual Studio 2010\Projects\Primeiro-Projeto\Primeiro-projeto\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Tordek\Documents\Visual Studio 2010\Projects\Primeiro-Projeto\Primeiro-projeto\calculadora\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tordek\Documents\Visual Studio 2010\Projects\Primeiro-Projeto\Primeiro-projeto\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\Tordek\Documents\Visual Studio 2010\Projects\Primeiro-Projeto\Primeiro-projeto\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Tordek\Documents\Visual Studio 2010\Projects\Primeiro-Projeto\Primeiro-projeto\calculadora\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tordek\Documents\Visual Studio 2010\Projects\Primeiro-Projeto\Primeiro-projeto\calculadora\obj\Debug\ResGen.write.1.tlog
